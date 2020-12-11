@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rachitt</h1>
-<h3 align="center">Full Stack Developer 👨‍💻 || Product Management || Python </h3>
+<h1 align="center">Hi 👋, I'm Avinash Vijayvargiya</h1>
+<h3 align="center">Android Development || Kotlin || Java </h3>
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rachitt_Shah-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachitt-shah/)](https://www.linkedin.com/in/rachitt-shah)
-[![Website Badge](https://img.shields.io/badge/-godslayer201.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)](https://godslayer201.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-@rachittshah20-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/rachittshah)](https://mobile.twitter.com/rachittshah)
-[![Instagram Badge](https://img.shields.io/badge/-@rachitt__shah-purple?style=flat&logo=instagram&logoColor=white&link=https:https://www.instagram.com/rachitt_shah/)](https://www.instagram.com/rachitt_shah/)
-[![Gmail Badge](https://img.shields.io/badge/-rachitt01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rachitt01@gmail.com)](mailto:rachitt01@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Rachitt_Shah-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachitt-shah/)](https://www.linkedin.com/in/avinash-vijayvargiya-726856193/)
+[![Website Badge](https://img.shields.io/badge/-godslayer201.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)]()
+[![Twitter Badge](https://img.shields.io/badge/-@avinash140222002-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/avinash14022002)](https://twitter.com/Avinash14022002)
+[![Instagram Badge](https://img.shields.io/badge/-@-purple?style=flat&logo=instagram&logoColor=white&link=https:https://www.instagram.com/vijayvargiya_avinash14/)](https://www.instagram.com/vijayvargiya_avinash14/)
+[![Gmail Badge](https://img.shields.io/badge/-avinash14022002-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:avinash14022002@gmail.com)](mailto:avinash14022002@gmail.com)
 <br>
 
 
 
-Hi,I'm Rachitt Shah <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> !   
+Hi,I'm Avinash Vijayvargiya <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> !   
 
 
 
