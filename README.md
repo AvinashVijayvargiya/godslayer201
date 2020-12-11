@@ -4,7 +4,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Avinash_Vijayvargiya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Avinash-Vijayvargiya/)](https://www.linkedin.com/in/avinash-vijayvargiya-726856193/)
-[![Website Badge](https://img.shields.io/badge/-godslayer201.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)]()
+[![Website Badge](https://img.shields.io/badge/-avinash14022002.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)]()
 [![Twitter Badge](https://img.shields.io/badge/-@avinash140222002-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/avinash14022002)](https://twitter.com/Avinash14022002)
 [![Instagram Badge](https://img.shields.io/badge/-@Avinash_Vijayvargiya-purple?style=flat&logo=instagram&logoColor=white&link=https:https://www.instagram.com/vijayvargiya_avinash14/)](https://www.instagram.com/vijayvargiya_avinash14/)
 [![Gmail Badge](https://img.shields.io/badge/-avinash14022002-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:avinash14022002@gmail.com)](mailto:avinash14022002@gmail.com)
